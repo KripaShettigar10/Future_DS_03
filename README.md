@@ -69,9 +69,9 @@ The dataset does not include explicit marketing-channel or campaign information.
 
 👩‍💻 Author
 
-Kripa
+Kripa K
+
 BSc Data Science Student
 
 ---
 
-Completed as part of the Future Interns Data Science & Analytics internship.
